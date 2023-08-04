@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    background-color: salmon;
+    margin-right: 400px;
+    margin-left:400px;
+    border-radius: 100px;
+}
+.cover{
+    display: grid;
+    width: 50%;
+}
+p{
+    display: inline;
+    height: 50%;
+    width: 50%;
+}
+.food{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+}
+td, th{
+    border: 1px solid silver;
+    padding: 30px;
+    background-color: salmon;
+
+}
+table{
+    border-collapse: collapse;
+    background-color: aqua;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+
+.about{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+.chobi{
+    height: 400px;
+    width: 400px;
+    
+}
+.header{
+    margin-left: 200px ;
+}
+
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 100px;
+    font-size: 70px;
+    margin-top: 50px;
+   
+}
+
+nav li a{
+    text-decoration: none;
+    color: salmon;
+}
+
+nav li:hover{
+    background-color: antiquewhite;
+}
+body{
+    background-color:rgb(243, 206, 180);
+
+}
